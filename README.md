@@ -15,7 +15,7 @@ Founded to bridge the gap between maritime operational expertise and formal engi
 
 - 🌐 **Official Web Portal:** [somekenya.org](https://somekenya.org) *(Secondary alias: `ksome.org`)*
 - 📜 **Institutional Status:** Professional Society registered under the Societies Act (Kenya)
-- 📧 **General Inquiries:** [info@somekenya.org](mailto:partnerships@somekenya.org)
+- 📧 **General Inquiries:** [partnerships@somekenya.org](mailto:partnerships@somekenya.org)
 
 ---
 
